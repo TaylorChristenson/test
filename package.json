@@ -1,0 +1,19 @@
+{
+  "name": "vgdb",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TaylorChristenson/test.git"
+  },
+  "author": "Team Ramrod",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TaylorChristenson/test/issues"
+  },
+  "homepage": "https://github.com/TaylorChristenson/test#readme"
+}
