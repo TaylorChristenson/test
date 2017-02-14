@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/TaylorChristenson/test/issues"
   },
-  "homepage": "https://github.com/TaylorChristenson/test#readme"
+  "homepage": "https://github.com/TaylorChristenson/test#readme",
+  "dependencies": {
+    "mongodb": "^2.2.23"
+  }
 }
